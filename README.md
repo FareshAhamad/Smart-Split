@@ -31,24 +31,6 @@ It allows users to easily scan receipts using OCR, split expenses with friends, 
 
 
 
-smartsplit/
-├── frontend/          # React Native app
-│   ├── components/    # Reusable UI components
-│   ├── contexts/      # Auth, Notifications, etc.
-│   ├── navigation/    # Navigation setup
-│   ├── screens/       # App screens
-│   ├── services/      # API & utilities
-│   ├── types/         # TypeScript definitions
-│   └── utils/         # Helper functions
-├── backend/
-│   └── supabase/      # Supabase schema & config
-├── assets/            # Images, fonts, icons
-├── .env.example       # Environment variables
-├── app.json           # Expo configuration
-├── package.json       # Dependencies & scripts
-└── README.md          # Project documentation
-
-
 ---
 
 ## 🔑 Key Components & Services
