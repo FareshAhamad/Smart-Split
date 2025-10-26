@@ -44,8 +44,8 @@ Using **advanced OCR technology**, users can scan receipts to automatically extr
 - **Realtime subscriptions** – Live updates  
 
 ### Services
-- **Google Vision API** – OCR processing  
-- **Stripe API** – Payment handling  
+- ** OCR.space**– OCR processing  
+- **UPI (Unified Payments Interface)** – Payment handling  
 - **Expo Notifications** – Push alerts  
 
 ---
