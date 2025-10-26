@@ -28,6 +28,9 @@ It allows users to easily scan receipts using OCR, split expenses with friends, 
 ### Backend
 - 🗄️ **Supabase (PostgreSQL)** — Database and authentication provider.
 - 🔒 **Row Level Security (RLS)** — Ensures user-specific data access and privacy.
+
+
+
 smartsplit/
 ├── frontend/          # React Native app
 │   ├── components/    # Reusable UI components
